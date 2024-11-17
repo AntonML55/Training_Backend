@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPX_proj\\Training_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A35E9-14B5-457A-B87C-C9A8AE89B6B0}|Training_Backend\\Training_Backend.csproj|d:\\aspx_proj\\training_backend\\training_backend\\controllers\\userexercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1A35E9-14B5-457A-B87C-C9A8AE89B6B0}|Training_Backend\\Training_Backend.csproj|solutionrelative:training_backend\\controllers\\userexercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KomarAS\\AppData\\Roaming\\Microsoft\\UserSecrets\\284c558f-0c15-48ca-9da8-ec7bfa084b22\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1A35E9-14B5-457A-B87C-C9A8AE89B6B0}|Training_Backend\\Training_Backend.csproj|d:\\aspx_proj\\training_backend\\training_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B1A35E9-14B5-457A-B87C-C9A8AE89B6B0}|Training_Backend\\Training_Backend.csproj|solutionrelative:training_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASPX_proj\\Training_Backend\\Training_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Training_Backend\\appsettings.json",
+              "ToolTip": "D:\\ASPX_proj\\Training_Backend\\Training_Backend\\appsettings.json",
+              "RelativeToolTip": "Training_Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T09:49:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\KomarAS\\AppData\\Roaming\\Microsoft\\UserSecrets\\284c558f-0c15-48ca-9da8-ec7bfa084b22\\secrets.json",
+              "ToolTip": "C:\\Users\\KomarAS\\AppData\\Roaming\\Microsoft\\UserSecrets\\284c558f-0c15-48ca-9da8-ec7bfa084b22\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T09:48:31.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserExercisesController.cs",
+              "DocumentMoniker": "D:\\ASPX_proj\\Training_Backend\\Training_Backend\\Controllers\\UserExercisesController.cs",
+              "RelativeDocumentMoniker": "Training_Backend\\Controllers\\UserExercisesController.cs",
+              "ToolTip": "D:\\ASPX_proj\\Training_Backend\\Training_Backend\\Controllers\\UserExercisesController.cs",
+              "RelativeToolTip": "Training_Backend\\Controllers\\UserExercisesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:20:31.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
